@@ -1,0 +1,28 @@
+# Ignore raw AACT data
+data/raw/
+
+# Ignore models
+models/
+*.joblib
+
+# Ignore CSVs (optional: remove if you want them)
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+*.env
+*.venv
+
+# macOS & OneDrive junk
+.DS_Store
+*.tmp
+*.lnk
+
