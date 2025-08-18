@@ -109,8 +109,7 @@ jupyter notebook notebooks/02_model_site_performance.ipynb
 ## 👨‍💻 Author
 
 Andy Waters  
-Sr. Director of Software Engineering → Aspiring Director of AI/ML  
-With a focus on hands-on innovation in clinical trial tech
+Sr. Director of Software Engineering
 
 ---
 
